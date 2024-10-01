@@ -5,5 +5,19 @@ Affichez dans la console :
 */
 
 // Votre prénom (chaîne)
+const myName="Edyta"
+
+console.log(myName)
+
+// Votre nom de famille
+
+const myFamilyname="Okulska"
+
+console.log(myFamilyname)
+
 
 // Votre âge (nombre)
+
+const myAge=22;
+
+console.log(myAge)
